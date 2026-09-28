@@ -1,0 +1,23 @@
+{
+  "docx": {
+    "content_items_checked": 570,
+    "missing_items": [],
+    "rendered_pages": 27,
+    "rendered_section_titles": 22,
+    "reference_sources": 20,
+    "embedded_source_urls_checked": 21
+  },
+  "numbers": {
+    "mvp_budget_manwon": 10560,
+    "year1_revenue_manwon": 900,
+    "year1_cogs_manwon": 480,
+    "year1_gross_margin_percent": 46.7
+  },
+  "pptx": {
+    "slides": 24,
+    "native_shapes": 766,
+    "out_of_bounds_shapes": [],
+    "empty_notes": [],
+    "required_key_content_present": true
+  }
+}
